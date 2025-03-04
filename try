@@ -1,2 +1,3 @@
+String url = props.getProperty("db.url");
 String userName = props.getProperty("db.user");
 hello world
