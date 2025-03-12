@@ -1,3 +1,4 @@
+public static void main(String[] args)
 test.init();
 // do the thing you do
 String password = props.getProperty("db.password");
