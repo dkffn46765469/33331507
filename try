@@ -1,3 +1,4 @@
+if (out != null) {
 out.close();
 Class.forName(driverClass);
 public static void main(String[] args)
