@@ -1,3 +1,4 @@
+public class OracleJdbcTest
 rs.close();
 if (out != null) {
 out.close();
