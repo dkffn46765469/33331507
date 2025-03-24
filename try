@@ -1,3 +1,4 @@
+con=DriverManager.getConnection(url, userName, password);
 String driverClass = "oracle.jdbc.driver.OracleDriver";
 if (out != null) {
 public class OracleJdbcTest
